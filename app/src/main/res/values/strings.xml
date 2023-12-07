@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW3.1</string>
+    <string name="email">Email</string>
+    <string name="theme">Subject</string>
+    <string name="text">Text</string>
+    <string name="send">Send</string>
+    <string name="next">Next</string>
+</resources>
