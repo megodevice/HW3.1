@@ -57,6 +57,7 @@
         android:layout_height="wrap_content" />
 
     <Button
+        android:onClick="onNextButtonClick"
         android:text="@string/next"
         android:textColor="@color/white"
         android:textSize="18sp"
